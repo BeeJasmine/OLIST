@@ -36,4 +36,4 @@ Please find the input data, the Brazilian E-Commerce Public Dataset by Olist her
 
 - 1 simulation notebook to determine the necessary frequency of updating the best segmentation model;
 
-- (coming) 1 PDF presentation support to present the approach, the analysis, the prepared datasets, the best model, its evaluation with the ARI-Score, the clusters & the clusters' explanations, the recommendations about the maintenance
+- (coming) 1 PDF presentation support to present the approach, the analysis, the prepared datasets, the best model, its evaluation with the ARI-Score, the clusters & the clusters' explanations, the recommendations about the maintenance (by comparing the ARI-Score over months)
