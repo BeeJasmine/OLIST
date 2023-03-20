@@ -5,6 +5,10 @@ e-Commerce customers' clustering
 ## Input 
 Please find the input data, the Brazilian E-Commerce Public Dataset by Olist here on (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVersionNumber=2)[Kaggle]
 
+### Data schema: Entity Relationship Diagram
+(data)[ERD]
+
+
 
 
 ## Delivery
