@@ -11,7 +11,7 @@ Please find the input data, the Brazilian E-Commerce Public Dataset by Olist her
 ### Collaborators
 - Olist (Owner)
 - Dabague (Editor)
-- Francisco Magioli (Editor)
+- Francisco Magioli (Editor) ![GitHuub](https://github.com/franciscomagioli)
 
 
 ## Delivery
